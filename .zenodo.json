@@ -1,8 +1,8 @@
 {
-  "title": "Calandre: production orders and running conditions of calendering lines (Visual Basic 6, 2002)",
+  "title": "Calandre: production orders and running conditions of calendering lines (2002)",
   "upload_type": "software",
   "publication_date": "2002-09-21",
-  "description": "<p><em>Commesse di produzione e condizioni di marcia delle calandre</em></p><p>Calandre follows the production jobs running on the calenders of a plastic-film plant. For every job it records order, product, customer specification, finish, thickness, height, length, kg per metre, reels, beam, work centre, packaging, shift, start and end time and operator. It also stores the customer and product specifications and the machine running conditions used for each product. Orders are imported from the MFG/PRO ERP.</p><p>Designed and programmed by Massimo Sbarbaro in 2002 (Visual Basic 6). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "description": "<p><em>Commesse di produzione e condizioni di marcia delle calandre</em></p><p>Calandre follows the production jobs running on the calenders of a plastic-film plant. For every job it records order, product, customer specification, finish, thickness, height, length, kg per metre, reels, beam, work centre, packaging, shift, start and end time and operator. It also stores the customer and product specifications and the machine running conditions used for each product. Orders are imported from the MFG/PRO ERP.</p><p>Designed and programmed by Massimo Sbarbaro in 2002. Published in 2026; all original data and the names of client organisations have been removed.</p>",
   "creators": [
     {
       "name": "Sbarbaro, Massimo",

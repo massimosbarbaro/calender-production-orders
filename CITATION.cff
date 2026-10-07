@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you refer to this software, please cite it as below."
 type: software
-title: "Calandre: production orders and running conditions of calendering lines (Visual Basic 6, 2002)"
+title: "Calandre: production orders and running conditions of calendering lines (2002)"
 version: "1.0.0"
 abstract: "Calandre follows the production jobs running on the calenders of a plastic-film plant. For every job it records order, product, customer specification, finish, thickness, height, length, kg per metre, reels, beam, work centre, packaging, shift, start and end time and operator. It also stores the customer and product specifications and the machine running conditions used for each product. Orders are imported from the MFG/PRO ERP."
 authors:
@@ -9,7 +9,8 @@ authors:
     given-names: Massimo
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
-repository-code: "https://github.com/massimosbarbaro/calender-production-orders-vb6"
+doi: "10.5281/zenodo.23186697"
+repository-code: "https://github.com/massimosbarbaro/calender-production-orders"
 keywords:
   - "Visual Basic 6"
   - "manufacturing"
