@@ -22,11 +22,11 @@ I designed and programmed this application in 2002. It is published here in 2026
 
 ## Data
 
-Microsoft Access database (`Calandre.mdb`) through DAO.
+Database (`Calandre.mdb`) through DAO.
 
 ## Technology
 
-DAO 3.51, Microsoft Access 8 object library, Crystal Reports, Winsock, Common Controls, Tab control, Masked Edit, DBGrid.
+DAO 3.51, db object library 8, Crystal Reports, Winsock, Common Controls, Tab control, Masked Edit, DBGrid.
 
 ## Repository contents
 
