@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23186697"
 repository-code: "https://github.com/massimosbarbaro/calender-production-orders"
 keywords:
-  - "Visual Basic 6"
   - "manufacturing"
   - "calendering"
   - "production orders"
